@@ -1,0 +1,15 @@
+/home/praveen/c/d/command_line_rust/echor/target/debug/deps/libassert_cmd-a0afd9d5117f1964.rmeta: /home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/lib.rs /home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/macros.rs /home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/assert.rs /home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/cargo.rs /home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/cmd.rs /home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/output.rs /home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/color.rs /home/praveen/c/d/command_line_rust/echor/target/debug/build/assert_cmd-4beb50cca728c72b/out/current_target.txt /home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/../README.md
+
+/home/praveen/c/d/command_line_rust/echor/target/debug/deps/assert_cmd-a0afd9d5117f1964.d: /home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/lib.rs /home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/macros.rs /home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/assert.rs /home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/cargo.rs /home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/cmd.rs /home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/output.rs /home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/color.rs /home/praveen/c/d/command_line_rust/echor/target/debug/build/assert_cmd-4beb50cca728c72b/out/current_target.txt /home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/../README.md
+
+/home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/lib.rs:
+/home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/macros.rs:
+/home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/assert.rs:
+/home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/cargo.rs:
+/home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/cmd.rs:
+/home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/output.rs:
+/home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/color.rs:
+/home/praveen/c/d/command_line_rust/echor/target/debug/build/assert_cmd-4beb50cca728c72b/out/current_target.txt:
+/home/praveen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.17/src/../README.md:
+
+# env-dep:OUT_DIR=/home/praveen/c/d/command_line_rust/echor/target/debug/build/assert_cmd-4beb50cca728c72b/out
