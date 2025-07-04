@@ -1,0 +1,15 @@
+[package]
+name = "catr"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap={version = "4" ,  features = ["cargo"] } 
+
+[dev-dependencies]
+assert_cmd="2"
+predicates="3" 
+rand={version ="0" , features = ["std"]}
+anyhow="1"
+pretty_assertions="1"
+rand_distr="0"

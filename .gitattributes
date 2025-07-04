@@ -1,0 +1,6 @@
+# Ignore non-Rust files in language breakdown
+Cargo.lock linguist-vendored
+*.toml linguist-vendored
+*.sh linguist-vendored
+Makefile linguist-vendored
+
